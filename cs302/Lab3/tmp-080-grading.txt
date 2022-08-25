@@ -1,0 +1,2 @@
+Event Files differ around event 39.
+tmp-080-test-output.txt has 2 events of the same type at this time, while tmp-080-correct-output.txt has 3.
