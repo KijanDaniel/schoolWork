@@ -1,0 +1,3 @@
+  ADD_USERthe-donald   100 Donald Trump
+  ADD_USERtigerwoods     0 Tiger Woods
+     PRIZE    cancun100000     1 ALL expense-paid vacation to Cancun
